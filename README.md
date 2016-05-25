@@ -2,8 +2,6 @@
 ```
 IP = Server IP Address
 PORT = Server Port
-
-
 ```
 
 # 中文说明
@@ -13,6 +11,4 @@ PORT = Server Port
 ```
 IP = 你的服务器IP
 PORT = 服务器端口
-
-
 ```
